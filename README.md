@@ -4,4 +4,5 @@
 # hobi saya futsal dan semua olahraga 
 # tempat tanggal lahir tulungagung 25 agustus 2003
 # ig = haritsuddin_
-cuma ada foto ijasah pak hehehe
+# cuma ada foto ijasah pak hehehe
+![](08. Asawinka Haritsuddin.PNG)
